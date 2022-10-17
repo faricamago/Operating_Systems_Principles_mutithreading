@@ -1,0 +1,4 @@
+detectPrimes
+*~
+*.o
+.vscode
