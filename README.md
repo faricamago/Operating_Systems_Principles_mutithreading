@@ -1,4 +1,4 @@
-**WARNING:** Do not upload any files in this repository to public websites. If you want to clone this repository, please make sure to keep it private.
+#A3.pdf -Question 3 gives the specifics of this assignment
 
 # detects primes from a list of numbers on standard input
 
